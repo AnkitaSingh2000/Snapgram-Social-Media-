@@ -8,7 +8,7 @@ import {
   useGetPostById,
   useGetUserPosts,
   useDeletePost,
-} from "@/lib/react-query/queries";
+} from "@/lib/react-query/queriesAndMutation";
 import { multiFormatDateString } from "@/lib/utils";
 import { useUserContext } from "@/context/AuthContext";
 

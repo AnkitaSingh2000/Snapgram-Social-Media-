@@ -8,7 +8,7 @@ import {
   useSavePost,
   useDeleteSavedPost,
   useGetCurrentUser,
-} from "@/lib/react-query/queries";
+} from "@/lib/react-query/queriesAndMutation";
 
 type PostStatsProps = {
   post: Models.Document;
