@@ -1,20 +1,14 @@
 # Snapgram(Social Media Application)
 
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/e42f8dc8-540b-46e2-bbf3-4ff67bd307c4)
+![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8768b773-dfa8-4501-9edc-0ad2318d5f86)
 
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/d928d821-9cc8-4ea4-b84b-9005967c1024)
+![image](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/f47f54fd-6a65-4298-b25c-0ab59fccf7d8)
 
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/0726dc6c-d760-4b95-b043-f033fc761014)
+![Screenshot (494)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/8d372bb3-357b-43b0-8442-a2a2b3265e49)
 
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/e080f739-225f-4376-b485-cfd14d76cd6f)
+![Screenshot (497)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/282638b1-daf1-45b8-907f-691ea96bb387)
 
-
-
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/5a0e5413-e0dd-432c-9593-2430eddbcf1f)
-
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/f7e374db-b412-4dc3-97bd-d8181d741230)
-
-![image](https://github.com/AnkitaSingh2000/Snapgram/assets/89559467/97e13d34-2af3-4f1f-be8b-08730a3bd8b6)
+![Screenshot (496)](https://github.com/AnkitaSingh2000/Snapgram-Social-Media-Application-/assets/89559467/084667ea-9889-4eed-a4ee-46c56971a67d)
 
 
 # Features
